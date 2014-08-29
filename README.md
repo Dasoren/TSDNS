@@ -32,7 +32,6 @@ ___
 ___
 ###Change Log:
 8/29/2014 6:25:49 PM Version 1.0.0 Released.
-
 ___
 ###Mission:
 To make a better TSDNS server then what is out there right now. It being Both fast and useful.
