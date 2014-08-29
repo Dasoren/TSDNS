@@ -1,6 +1,6 @@
 # TSDNS for Node.JS and Redis #
 ___
-This is a remake of the teamspeak TSDNS server app that teamspeak provides with there server code. The reason this was made is for http://tsdns.link a TSDNS provider. This is a fully working node.js app that connects to a redis database to load and server TSDNS records to TS3 users.
+This is a remake of the teamspeak TSDNS server app that teamspeak provides with the server code. The reason this was made is for http://tsdns.link a TSDNS provider. This is a fully working node.js app that connects to a redis database to load and server TSDNS records to TS3 users.
 
 ###Note: This server code could update at anytime and if you modify it, it may brake. The API and Redis database values will not be messed with.
 ___
