@@ -4,6 +4,7 @@ This is a remake of the teamspeak TSDNS server app that teamspeak provides with 
 
 ###Note: This server code could update at anytime and if you modify it, it may brake. The API and Redis database values will not be messed with.
 ___
+
 ###Requirements:
 
 - Node.js [http://nodejs.org/](http://nodejs.org/ "Node.js")
@@ -22,24 +23,29 @@ ___
 - `tsdns-tools.js`  This is the admin tool for managing the TSDNS database from command line.
 - `tsdns-web.js`  This is the TSDNS web server for using the API to send commands to the TSDNS database.
 - `tsdns-config.js` This is the configuration file for all of the `tsdns-*` files.
+
 ___
+
 ###TODO:
-1. tsdns-tools.js Command line tools for TSDNS (Version 2.0.0)
-2. tsdns-web.js Web API for TSDNS (Version 3.0.0)
-3. Better Logging (Version 2.5.0)
-4. Web Control Panel (Verion 3.5.0)
-5. Add MySQL/SQLite support (Version 4.0.0)
+1. [  ]tsdns-tools.js Command line tools for TSDNS (Version 2.0.0)
+2. [  ]tsdns-web.js Web API for TSDNS (Version 3.0.0)
+3. [  ]Better Logging (Version 2.5.0)
+4. [  ]Web Control Panel (Verion 3.5.0)
+5. [  ]Add MySQL/SQLite support (Version 4.0.0)
+
 ___
+
 ###Change Log:
 8/29/2014 6:25:49 PM Version 1.0.0 Released.
 ___
+
 ###Mission:
 To make a better TSDNS server then what is out there right now. It being Both fast and useful.
 To make a command like admin too and web API to manage the server settings and database of domains.
 ___
+
 ###Copyright:
 This TSDNS for Node.js and Redis is made for [http://tsdns.link/about](http://tsdns.link/about "TSDNS.link")
-
 
 #####TSDNS for node.js and Redis  Copyright (C) 2014  Dasoren
 If you wish to modify this code in any way, 
