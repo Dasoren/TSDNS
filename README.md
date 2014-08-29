@@ -21,7 +21,7 @@ ___
 - `tsdns-server.js`  This is the main script in this app, it is the TSDNS server file.
 - `tsdns-tools.js`  This is the admin tool for managing the TSDNS database from command line.
 - `tsdns-web.js`  This is the TSDNS web server for using the API to send commands to the TSDNS database.
-- `tsdns-config.js` This is the configuration file for all of the `tsdns-*` files
+- `tsdns-config.js` This is the configuration file for all of the `tsdns-*` files.
 ___
 ###TODO:
 1. tsdns-tools.js Command line tools for TSDNS (Version 2.0.0)
