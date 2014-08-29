@@ -27,11 +27,11 @@ ___
 ___
 
 ###TODO:
-1. [  ]tsdns-tools.js Command line tools for TSDNS (Version 2.0.0)
-2. [  ]tsdns-web.js Web API for TSDNS (Version 3.0.0)
-3. [  ]Better Logging (Version 2.5.0)
-4. [  ]Web Control Panel (Verion 3.5.0)
-5. [  ]Add MySQL/SQLite support (Version 4.0.0)
+- [ ] tsdns-tools.js Command line tools for TSDNS (Version 2.0.0)
+- [ ] tsdns-web.js Web API for TSDNS (Version 3.0.0)
+- [ ] Better Logging (Version 2.5.0)
+- [ ] Web Control Panel (Verion 3.5.0)
+- [ ] Add MySQL/SQLite support (Version 4.0.0)
 
 ___
 
